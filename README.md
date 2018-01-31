@@ -8,15 +8,15 @@ I included a few specific exception cases, mostly to make the test output easier
 
 
 ## Test Cases:
-LetterDiamond('C')
-LetterDiamond('j')
-LetterDiamond(6)
-LetterDiamond('"')
-LetterDiamond('db')
+LetterDiamond('C')  
+LetterDiamond('j')  
+LetterDiamond(6)  
+LetterDiamond('"')  
+LetterDiamond('db')  
 
 
-and the direct output from my spyder IDE:
-(GitHub's readme doesnt appreciate whitespace so please see the "Raw" readme file for the diamond structure to be seen.)
+and the direct output from my spyder IDE:  
+(GitHub's readme doesnt appreciate whitespace so please see the "Raw" readme file for the diamond structure to be seen.)  
   A
  B B
 C   C
